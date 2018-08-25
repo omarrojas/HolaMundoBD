@@ -1,0 +1,22 @@
+https://dzone.com/articles/create-a-simple-api-using-django-rest-framework-in
+cd drf-demo
+django-admin startproject SampleProject
+python3.6 manage.py startapp MyApp
+cd SampleProject/
+python3.6 manage.py startapp MyApp
+cd SampleProject/
+vi settings.py 
+cd ..
+cd MyApp/
+vim views.py 
+cd ..
+cd SampleProject
+vim urls.py
+cd ..
+python3.6 manage.py migrate
+python3.6 manage.py runserver 8001
+
+POSTMAN
+Method POST
+URL:http://127.0.0.1:8001
+Body:Raw:5.9
