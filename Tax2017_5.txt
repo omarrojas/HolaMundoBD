@@ -1,0 +1,6 @@
+https://s3.amazonaws.com/nyc-tlc/trip+data/fhv_tripdata_2017-07.csv
+https://s3.amazonaws.com/nyc-tlc/trip+data/fhv_tripdata_2017-08.csv
+https://s3.amazonaws.com/nyc-tlc/trip+data/fhv_tripdata_2017-09.csv
+https://s3.amazonaws.com/nyc-tlc/trip+data/fhv_tripdata_2017-10.csv
+https://s3.amazonaws.com/nyc-tlc/trip+data/fhv_tripdata_2017-11.csv
+https://s3.amazonaws.com/nyc-tlc/trip+data/fhv_tripdata_2017-12.csv
